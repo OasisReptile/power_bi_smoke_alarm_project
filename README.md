@@ -1,3 +1,5 @@
+# Power BI Smoke Alarm Project
+
 **Business Scenario**
 
 It has been discovered that a lot of properties the business manages may have missing or faulty smoke alarms. As such, teams were sent out to check the alarms, the outcome of which has been displayed in a Power BI dashboard.
